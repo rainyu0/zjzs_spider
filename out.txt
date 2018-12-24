@@ -1,0 +1,188 @@
+<a href="area_0_0.html">北京</a>
+<a href="area_0_1.html">天津</a>
+<a href="area_0_2.html">河北</a>
+<a href="area_0_3.html">山西</a>
+<a href="area_0_4.html">内蒙古</a>
+<a href="area_0_5.html">辽宁</a>
+<a href="area_0_6.html">吉林</a>
+<a href="area_0_7.html">黑龙江</a>
+<a href="area_0_8.html">上海</a>
+<a href="area_0_9.html">江苏</a>
+<a href="area_0_10.html">浙江</a>
+<a href="area_0_11.html">安徽</a>
+<a href="area_1_0.html">福建</a>
+<a href="area_1_1.html">江西</a>
+<a href="area_1_2.html">山东</a>
+<a href="area_1_3.html">河南</a>
+<a href="area_1_4.html">湖北</a>
+<a href="area_1_5.html">湖南</a>
+<a href="area_1_6.html">广东</a>
+<a href="area_1_7.html">广西</a>
+<a href="area_1_8.html">海南</a>
+<a href="area_1_9.html">重庆</a>
+<a href="area_1_10.html">四川</a>
+<a href="area_1_11.html">贵州</a>
+<a href="area_2_0.html">云南</a>
+<a href="area_2_1.html">陕西</a>
+<a href="area_2_2.html">甘肃</a>
+<a href="area_2_3.html">青海</a>
+<a href="area_2_4.html">宁夏</a>
+<a href="area_2_5.html">新疆</a>
+<a href="area_2_6.html">香港</a>
+<a href="area_2_7.html">军校</a>
+<a href="http://www.gotopku.cn/" target="_blank">www.gotopku.cn/</a>
+<a href="10001.html" target="_blank">查看</a>
+<a href="http://www.rdzs.com" target="_blank">www.rdzs.com</a>
+<a href="10002.html" target="_blank">查看</a>
+<a href="http://www.join-tsinghua.edu.cn/" target="_blank">www.join-tsinghua.edu.cn/</a>
+<a href="10003.html" target="_blank">查看</a>
+<a href="http://zsw.bjtu.edu.cn/" target="_blank">zsw.bjtu.edu.cn/</a>
+<a href="10004.html" target="_blank">查看</a>
+<a href="http://admissions.bjut.edu.cn/" target="_blank">admissions.bjut.edu.cn/</a>
+<a href="10005.html" target="_blank">查看</a>
+<a href="http://zsjyc.buaa.edu.cn/zsweb" target="_blank">zsjyc.buaa.edu.cn/zsweb</a>
+<a href="10006.html" target="_blank">查看</a>
+<a href="http://admission.bit.edu.cn" target="_blank">admission.bit.edu.cn</a>
+<a href="10007.html" target="_blank">查看</a>
+<a href="http://www.ustb.edu.cn/" target="_blank">www.ustb.edu.cn/</a>
+<a href="10008.html" target="_blank">查看</a>
+<a href="http://www.goto.buct.edu.cn" target="_blank">www.goto.buct.edu.cn</a>
+<a href="10010.html" target="_blank">查看</a>
+<a href="http://zsb.btbu.edu.cn" target="_blank">zsb.btbu.edu.cn</a>
+<a href="10011.html" target="_blank">查看</a>
+<a href="http://bkzs.bift.edu.cn" target="_blank">bkzs.bift.edu.cn</a>
+<a href="10012.html" target="_blank">查看</a>
+<a href="http://zsb.bupt.edu.cn/" target="_blank">zsb.bupt.edu.cn/</a>
+<a href="10013.html" target="_blank">查看</a>
+<a href="http://zhaosheng.bigc.edu.cn" target="_blank">zhaosheng.bigc.edu.cn</a>
+<a href="10015.html" target="_blank">查看</a>
+<a href="http://zsb.bucea.edu.cn/" target="_blank">zsb.bucea.edu.cn/</a>
+<a href="10016.html" target="_blank">查看</a>
+<a href="http://zhaosheng.bipt.edu.cn/content/bipt/" target="_blank">zhaosheng.bipt.edu.cn/content/bipt/</a>
+<a href="10017.html" target="_blank">查看</a>
+<a href="http://www.besti.edu.cn" target="_blank">www.besti.edu.cn</a>
+<a href="10018.html" target="_blank">查看</a>
+<a href="http://jwzs.cau.edu.cn/" target="_blank">jwzs.cau.edu.cn/</a>
+<a href="10019.html" target="_blank">查看</a>
+<a href="http://zsb.bua.edu.cn/" target="_blank">zsb.bua.edu.cn/</a>
+<a href="10020.html" target="_blank">查看</a>
+<a href="http://zsb.bjfu.edu.cn" target="_blank">zsb.bjfu.edu.cn</a>
+<a href="10022.html" target="_blank">查看</a>
+<a href="http://gkxc.pumc.edu.cn/pumc" target="_blank">gkxc.pumc.edu.cn/pumc</a>
+<a href="10023.html" target="_blank">查看</a>
+<a href="http://zhshjy.ccmu.edu.cn/" target="_blank">zhshjy.ccmu.edu.cn/</a>
+<a href="10025.html" target="_blank">查看</a>
+<a href="http://bkzs.bucm.edu.cn" target="_blank">bkzs.bucm.edu.cn</a>
+<a href="10026.html" target="_blank">查看</a>
+<a href="http://admission.bnu.edu.cn" target="_blank">admission.bnu.edu.cn</a>
+<a href="10027.html" target="_blank">查看</a>
+<a href="http://bkzs.cnu.edu.cn" target="_blank">bkzs.cnu.edu.cn</a>
+<a href="10028.html" target="_blank">查看</a>
+<a href="http://zs.cupes.edu.cn" target="_blank">zs.cupes.edu.cn</a>
+<a href="10029.html" target="_blank">查看</a>
+<a href="http://https://joinus.bfsu.edu.cn/" target="_blank">https://joinus.bfsu.edu.cn/</a>
+<a href="10030.html" target="_blank">查看</a>
+<a href="http://zs.bisu.edu.cn" target="_blank">zs.bisu.edu.cn</a>
+<a href="10031.html" target="_blank">查看</a>
+<a href="http://zsb.blcu.edu.cn" target="_blank">zsb.blcu.edu.cn</a>
+<a href="10032.html" target="_blank">查看</a>
+<a href="http://zhaosheng.cuc.edu.cn" target="_blank">zhaosheng.cuc.edu.cn</a>
+<a href="10033.html" target="_blank">查看</a>
+<a href="http://zs.cufe.edu.cn" target="_blank">zs.cufe.edu.cn</a>
+<a href="10034.html" target="_blank">查看</a>
+<a href="http://zhaosheng.uibe.edu.cn" target="_blank">zhaosheng.uibe.edu.cn</a>
+<a href="10036.html" target="_blank">查看</a>
+<a href="http://zs.bwu.edu.cn" target="_blank">zs.bwu.edu.cn</a>
+<a href="10037.html" target="_blank">查看</a>
+<a href="http://zs.cueb.edu.cn" target="_blank">zs.cueb.edu.cn</a>
+<a href="10038.html" target="_blank">查看</a>
+<a href="http://zs.cfau.edu.cn" target="_blank">zs.cfau.edu.cn</a>
+<a href="10040.html" target="_blank">查看</a>
+<a href="http://www.ppsuc.edu.cn" target="_blank">www.ppsuc.edu.cn</a>
+<a href="10041.html" target="_blank">查看</a>
+<a href="http://www.uir.cn" target="_blank">www.uir.cn</a>
+<a href="10042.html" target="_blank">查看</a>
+<a href="http://zs.bsu.edu.cn" target="_blank">zs.bsu.edu.cn</a>
+<a href="10043.html" target="_blank">查看</a>
+<a href="http://zhaoban.ccom.edu.cn" target="_blank">zhaoban.ccom.edu.cn</a>
+<a href="10045.html" target="_blank">查看</a>
+<a href="http://www.ccmusic.edu.cn/subsite/bkzs/" target="_blank">www.ccmusic.edu.cn/subsite/bkzs/</a>
+<a href="10046.html" target="_blank">查看</a>
+<a href="http://www.cafa.edu.cn/" target="_blank">www.cafa.edu.cn/</a>
+<a href="10047.html" target="_blank">查看</a>
+<a href="http://zhaosheng.zhongxi.cn" target="_blank">zhaosheng.zhongxi.cn</a>
+<a href="10048.html" target="_blank">查看</a>
+<a href="http://zs.nacta.edu.cn" target="_blank">zs.nacta.edu.cn</a>
+<a href="10049.html" target="_blank">查看</a>
+<a href="http://www.bfa.edu.cn" target="_blank">www.bfa.edu.cn</a>
+<a href="10050.html" target="_blank">查看</a>
+<a href="http://www.bda.edu.cn" target="_blank">www.bda.edu.cn</a>
+<a href="10051.html" target="_blank">查看</a>
+<a href="http://zb.muc.edu.cn" target="_blank">zb.muc.edu.cn</a>
+<a href="10052.html" target="_blank">查看</a>
+<a href="http://web.cupl.edu.cn/zs/" target="_blank">web.cupl.edu.cn/zs/</a>
+<a href="10053.html" target="_blank">查看</a>
+<a href="http://goto.ncepu.edu.cn" target="_blank">goto.ncepu.edu.cn</a>
+<a href="10054.html" target="_blank">查看</a>
+<a href="http://www.dky.bjedu.cn/" target="_blank">www.dky.bjedu.cn/</a>
+<a href="10858.html" target="_blank">查看</a>
+<a href="http://zhaosheng.cwu.edu.cn" target="_blank">zhaosheng.cwu.edu.cn</a>
+<a href="11149.html" target="_blank">查看</a>
+<a href="http://zhaosheng.bistu.edu.cn" target="_blank">zhaosheng.bistu.edu.cn</a>
+<a href="11232.html" target="_blank">查看</a>
+<a href="http://zb.cumtb.edu.cn" target="_blank">zb.cumtb.edu.cn</a>
+<a href="11413.html" target="_blank">查看</a>
+<a href="http://www.cup.edu.cn/bkzs/" target="_blank">www.cup.edu.cn/bkzs/</a>
+<a href="11414.html" target="_blank">查看</a>
+<a href="http://zhsh.cugb.edu.cn" target="_blank">zhsh.cugb.edu.cn</a>
+<a href="11415.html" target="_blank">查看</a>
+<a href="http://zsxx.buu.edu.cn/" target="_blank">zsxx.buu.edu.cn/</a>
+<a href="11417.html" target="_blank">查看</a>
+<a href="http://zs.bcu.edu.cn" target="_blank">zs.bcu.edu.cn</a>
+<a href="11418.html" target="_blank">查看</a>
+<a href="http://zb.sgit.edu.cn/" target="_blank">zb.sgit.edu.cn/</a>
+<a href="11831.html" target="_blank">查看</a>
+<a href="http://zs.ciir.edu.cn/" target="_blank">zs.ciir.edu.cn/</a>
+<a href="12453.html" target="_blank">查看</a>
+<a href="http://www.pfc.edu.cn" target="_blank">www.pfc.edu.cn</a>
+<a href="12564.html" target="_blank">查看</a>
+<a href="http://www.csuedu.com/list/list.php?tid=69" target="_blank">www.csuedu.com/list/list.php?tid=69</a>
+<a href="12565.html" target="_blank">查看</a>
+<a href="http://www.bibt.edu.cn/" target="_blank">www.bibt.edu.cn/</a>
+<a href="12566.html" target="_blank">查看</a>
+<a href="http://www.hju.org.cn" target="_blank">www.hju.org.cn</a>
+<a href="12568.html" target="_blank">查看</a>
+<a href="http://" target="_blank"></a>
+<a href="12733.html" target="_blank">查看</a>
+<a href="http://zs.bgu.edu.cn" target="_blank">zs.bgu.edu.cn</a>
+<a href="12802.html" target="_blank">查看</a>
+<a href="http://kdcnu.com" target="_blank">kdcnu.com</a>
+<a href="13629.html" target="_blank">查看</a>
+<a href="http://zs.canvard.edu.cn/" target="_blank">zs.canvard.edu.cn/</a>
+<a href="13630.html" target="_blank">查看</a>
+<a href="http://zs.5aaa.edu.cn" target="_blank">zs.5aaa.edu.cn</a>
+<a href="13703.html" target="_blank">查看</a>
+<a href="http://www.bjpldx.edu.cn" target="_blank">www.bjpldx.edu.cn</a>
+<a href="13728.html" target="_blank">查看</a>
+<a href="http://zhaoban.ccbupt.cn" target="_blank">zhaoban.ccbupt.cn</a>
+<a href="13901.html" target="_blank">查看</a>
+<a href="http://zs.gengdan.cn" target="_blank">zs.gengdan.cn</a>
+<a href="13904.html" target="_blank">查看</a>
+<a href="http://www.bcsa.edu.cn" target="_blank">www.bcsa.edu.cn</a>
+<a href="14139.html" target="_blank">查看</a>
+<a href="http://www.bhi.edu.cn" target="_blank">www.bhi.edu.cn</a>
+<a href="14201.html" target="_blank">查看</a>
+<a href="http://admission.ucas.ac.cn/" target="_blank">admission.ucas.ac.cn/</a>
+<a href="14430.html" target="_blank">查看</a>
+<a href="http://jiaoyuchu.bjmu.edu.cn/zsjy/zsgz/index.htm" target="_blank">jiaoyuchu.bjmu.edu.cn/zsjy/zsgz/index.htm</a>
+<a href="19001.html" target="_blank">查看</a>
+<a href="http://zsb.bupt.edu.cn/" target="_blank">zsb.bupt.edu.cn/</a>
+<a href="19013.html" target="_blank">查看</a>
+<a href="http://" target="_blank"></a>
+<a href="91006.html" target="_blank">查看</a>
+<a href="http://" target="_blank"></a>
+<a href="91011.html" target="_blank">查看</a>
+<a href="http://" target="_blank"></a>
+<a href="91036.html" target="_blank">查看</a>
+<a href="http://" target="_blank"></a>
+<a href="91041.html" target="_blank">查看</a>
