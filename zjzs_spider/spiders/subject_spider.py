@@ -32,37 +32,37 @@ class SubjectSpider(scrapy.Spider):
     name = "subject"
     start_urls = [
         'http://zt.zjzs.net/xk2020/area_0_0.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_1.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_2.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_3.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_4.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_5.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_6.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_7.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_8.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_9.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_10.html',
-        # 'http://zt.zjzs.net/xk2020/area_0_11.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_0.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_1.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_2.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_3.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_4.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_5.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_6.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_7.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_8.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_9.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_10.html',
-        # 'http://zt.zjzs.net/xk2020/area_1_11.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_0.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_1.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_2.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_3.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_4.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_5.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_6.html',
-        # 'http://zt.zjzs.net/xk2020/area_2_7.html'
+        'http://zt.zjzs.net/xk2020/area_0_1.html',
+        'http://zt.zjzs.net/xk2020/area_0_2.html',
+        'http://zt.zjzs.net/xk2020/area_0_3.html',
+        'http://zt.zjzs.net/xk2020/area_0_4.html',
+        'http://zt.zjzs.net/xk2020/area_0_5.html',
+        'http://zt.zjzs.net/xk2020/area_0_6.html',
+        'http://zt.zjzs.net/xk2020/area_0_7.html',
+        'http://zt.zjzs.net/xk2020/area_0_8.html',
+        'http://zt.zjzs.net/xk2020/area_0_9.html',
+        'http://zt.zjzs.net/xk2020/area_0_10.html',
+        'http://zt.zjzs.net/xk2020/area_0_11.html',
+        'http://zt.zjzs.net/xk2020/area_1_0.html',
+        'http://zt.zjzs.net/xk2020/area_1_1.html',
+        'http://zt.zjzs.net/xk2020/area_1_2.html',
+        'http://zt.zjzs.net/xk2020/area_1_3.html',
+        'http://zt.zjzs.net/xk2020/area_1_4.html',
+        'http://zt.zjzs.net/xk2020/area_1_5.html',
+        'http://zt.zjzs.net/xk2020/area_1_6.html',
+        'http://zt.zjzs.net/xk2020/area_1_7.html',
+        'http://zt.zjzs.net/xk2020/area_1_8.html',
+        'http://zt.zjzs.net/xk2020/area_1_9.html',
+        'http://zt.zjzs.net/xk2020/area_1_10.html',
+        'http://zt.zjzs.net/xk2020/area_1_11.html',
+        'http://zt.zjzs.net/xk2020/area_2_0.html',
+        'http://zt.zjzs.net/xk2020/area_2_1.html',
+        'http://zt.zjzs.net/xk2020/area_2_2.html',
+        'http://zt.zjzs.net/xk2020/area_2_3.html',
+        'http://zt.zjzs.net/xk2020/area_2_4.html',
+        'http://zt.zjzs.net/xk2020/area_2_5.html',
+        'http://zt.zjzs.net/xk2020/area_2_6.html',
+        'http://zt.zjzs.net/xk2020/area_2_7.html'
     ]
 
     def parse(self, response):
@@ -85,8 +85,8 @@ class SubjectSpider(scrapy.Spider):
 
 
     def parse_speciality(self, response):
-        # print 'parse_speciality: sleep 1 sec'
-        # time.sleep(1)
+        print 'parse_speciality: sleep 1 sec'
+        time.sleep(0.3)
         item = response.meta['item']
         all_specs = response.xpath('//table/tr')
         for one_spec in all_specs:
@@ -96,9 +96,9 @@ class SubjectSpider(scrapy.Spider):
                 subject = pq(one_spec.xpath('td').extract()[2])('td').text()
                 specialities = pq(one_spec.xpath('td').extract()[3])('td').text()
                 item['level'] = level
-                item['spec_class'] = spec_class
-                item['subject'] = subject
-                item['specialities'] = specialities.replace('\n', ',')
+                item['spec_class'] = spec_class.replace('\n', ',').replace('"', '').replace('\\', ' ')
+                item['subject'] = subject.replace('\n', ',').replace('"', '').replace('\\', ' ')
+                item['specialities'] = specialities.replace('\n', ',').replace('"', '').replace('\\', ' ')
                 yield item
 
 
