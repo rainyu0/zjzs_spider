@@ -11,4 +11,11 @@ import scrapy
 class ZjzsSpiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    area = scrapy.Field()
+    level = scrapy.Field()
+    spec_class = scrapy.Field()
+    school_no = scrapy.Field()
+    school_name = scrapy.Field()
+    school_url = scrapy.Field()
+    subject = scrapy.Field()
+    specialities = scrapy.Field()
