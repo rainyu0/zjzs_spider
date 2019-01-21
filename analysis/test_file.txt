@@ -1,0 +1,12 @@
+{"school_no": "10126", "school_url": "http://zhaosheng.imu.edu.cn/", "area": "内蒙古", "level": "本科", "school_name": "内蒙古大学", "spec_class": "金融工程", "specialities": "", "subject": "物理(1门科目考生必须选考方可报考)"}
+{"school_no": "10246", "school_url": "http://www.ao.fudan.edu.cn/", "area": "上海", "level": "本科", "school_name": "复旦大学", "spec_class": "哲学类", "specialities": "哲学,宗教学", "subject": "不提科目要求"}
+{"school_no": "10075", "school_url": "http://zhaoban.hbu.cn/", "area": "河北", "level": "本科", "school_name": "河北大学", "spec_class": "国际经济与贸易", "specialities": "", "subject": "物理,历史,地理(3门科目考生选考其中一门即可报考)"}
+{"school_no": "10183", "school_url": "http://zsb.jlu.edu.cn", "area": "吉林", "level": "本科", "school_name": "吉林大学", "spec_class": "物理学类", "specialities": "物理学,应用物理学,核物理,光电信息科学与工程", "subject": "物理(1门科目考生必须选考方可报考)"}
+{"school_no": "10001", "school_url": "http://www.gotopku.cn/", "area": "北京", "level": "本科", "school_name": "北京大学", "spec_class": "公共管理类", "specialities": "政治学与行政学,城市管理,行政管理", "subject": "不提科目要求"}
+{"school_no": "10055", "school_url": "http://zsb.nankai.edu.cn", "area": "天津", "level": "本科", "school_name": "南开大学", "spec_class": "生物科学类", "specialities": "生物科学,生物技术", "subject": "物理,化学,生物(3门科目考生选考其中一门即可报考)"}
+{"school_no": "10212", "school_url": "http://zsb.hlju.edu.cn", "area": "黑龙江", "level": "本科", "school_name": "黑龙江大学", "spec_class": "英语", "specialities": "", "subject": "不提科目要求"}
+{"school_no": "10108", "school_url": "http://bkzs.sxu.edu.cn/", "area": "山西", "level": "本科", "school_name": "山西大学", "spec_class": "音乐学", "specialities": "", "subject": "不提科目要求"}
+{"school_no": "10126", "school_url": "http://zhaosheng.imu.edu.cn/", "area": "内蒙古", "level": "本科", "school_name": "内蒙古大学", "spec_class": "公共事业管理", "specialities": "", "subject": "思想政治,历史,地理(3门科目考生选考其中一门即可报考)"}
+{"school_no": "10126", "school_url": "http://zhaosheng.imu.edu.cn/", "area": "内蒙古", "level": "本科", "school_name": "内蒙古大学", "spec_class": "社会学", "specialities": "", "subject": "历史(1门科目考生必须选考方可报考)"}
+{"school_no": "10126", "school_url": "http://zhaosheng.imu.edu.cn/", "area": "内蒙古", "level": "本科", "school_name": "内蒙古大学", "spec_class": "汉语言文学", "specialities": "", "subject": "历史(1门科目考生必须选考方可报考)"}
+{"school_no": "10126", "school_url": "http://zhaosheng.imu.edu.cn/", "area": "内蒙古", "level": "本科", "school_name": "内蒙古大学", "spec_class": "英语", "specialities": "", "subject": "不提科目要求"}
